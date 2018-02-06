@@ -1,50 +1,76 @@
 ## creative commons
+## creative commons
 
 # Attribution-NonCommercial-NoDerivatives 4.0 International
+# Atribusi-Nonkomersial-Tanpaturunan 4.0 Internasional
 
 Creative Commons Corporation (“Creative Commons”) is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an “as-is” basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
+Creative Commons Corporation ("Creative Commons") adalah sebuah firma hukum dan tidak memberikan layanan hukum. Distribusi Creative Commons lisensi publik tidak membuat pengacara-klien, atau hubungan lainnya. Creative Commons membuat lisensi dan informasi terkait "sebagaimana adanya". Creative Commons tidak memberikan jaminan tentang lisensi ini, setiap materi berlisensi di bawah syarat dan kondisi mereka, atau apapun yang berhubungan dengan informasi. Creative Commons menolak semua tanggung jawab atas kerusakan yang diakibatkan dari penggunaan mereka semaksimal mungkin.
 
 ### Using Creative Commons Public Licenses
+### Menggunakan Lisensi Publik Creative Commons
 
 Creative Commons public licenses provide a standard set of terms and conditions that creators and other rights holders may use to share original works of authorship and other material subject to copyright and certain other rights specified in the public license below. The following considerations are for informational purposes only, are not exhaustive, and do not form part of our licenses.
+Lisensi publik Creative Commons menyediakan seperangkat syarat dan ketentuan standar yang dapat digunakan pembuat konten dan pemegang hak lainnya untuk membagikan karya asli kepengarangan dan materi lainnya yang tunduk pada hak cipta dan hak lainnya yang ditentukan dalam lisensi publik di bawah ini. Berikut adalah pertimbangan untuk tujuan informasi saja, tidak lengkap, dan bukan bagian dari lisensi kami.
 
 * __Considerations for licensors:__ Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC-licensed material, or material used under an exception or limitation to copyright. [More considerations for licensors](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensors).
+* __Persyaratan untuk pemberi lisensi: __ Lisensi publik kami dimaksudkan untuk digunakan oleh orang-orang yang diberi wewenang untuk memberi izin kepada publik untuk menggunakan materi tersebut dengan cara yang dilarang oleh hak cipta dan hak-hak tertentu lainnya. Lisensi kami tidak dapat dibatalkan. Pemberi Lisensi harus membaca dan memahami persyaratan dan ketentuan dari lisensi yang mereka pilih sebelum menerapkannya. Pemberi Lisensi juga harus mengamankan semua hak yang diperlukan sebelum mengajukan permohonan lisensi kami sehingga masyarakat dapat menggunakan kembali materi tersebut sesuai yang diharapkan. Pemberi lisensi harus dengan jelas menandai bahan yang tidak berlisensi. Ini termasuk materi berlisensi CC lainnya, atau bahan yang digunakan dengan pengecualian atau batasan hak cipta. [Pertimbangan lebih bagi pemberi lisensi](http://wiki.creativecommons.org/Considerations_for_licensors_and_license#Considerations_for_licensors).
 
 * __Considerations for the public:__ By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor’s permission is not necessary for any reason–for example, because of any applicable exception or limitation to copyright–then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. [More considerations for the public](http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
+* __Pertimbangan untuk publik:__ Dengan menggunakan salah satu lisensi publik kami, pemberi lisensi memberi izin kepada publik untuk menggunakan materi berlisensi sesuai persyaratan dan ketentuan yang ditentukan. Jika lisensi pemegang lisensi tidak diperlukan untuk alasan apapun - misalnya, karena pengecualian atau pembatasan hak cipta yang berlaku - penggunaan tersebut tidak diatur oleh lisensi. Lisensi kami hanya memberikan izin berdasarkan hak cipta dan hak-hak tertentu lainnya yang diberikan pemberi lisensi untuk diberikan. Penggunaan bahan berlisensi mungkin masih dibatasi untuk alasan lain, termasuk karena hak cipta atau hak lainnya dalam materi. Seorang pemberi lisensi dapat mengajukan permintaan khusus, seperti meminta agar semua perubahan ditandai atau dijelaskan. Meskipun tidak diwajibkan oleh lisensi kami, Anda dianjurkan untuk menghormati permintaan jika masuk akal. [Pertimbangan umum lebih banyak] (http://wiki.creativecommons.org/Considerations_for_licensors_and_licensees#Considerations_for_licensees).
 
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+## Creative Commons Attribution-Non-Komersial-NoDerivatives 4.0 Lisensi Publik Internasional
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+Dengan menerapkan Hak Izin (didefinisikan di bawah), Anda menerima dan menyetujui untuk terikat oleh syarat dan ketentuan dari Lisensi Publik Internasional dari Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 ("Lisensi Publik"). Sejauh Lisensi Publik ini dapat dianggap sebagai kontrak, Anda diberi Lisensi dengan Lisensi sesuai persyaratan dan ketentuan Anda, dan Pemberi Lisensi memberi Anda hak-hak ini dengan pertimbangan manfaat yang diterima Pemberi Lisensi dari pembuatan Materi Izin yang tersedia. berdasarkan syarat dan ketentuan ini.
 
 ### Section 1 – Definitions.
+### Bagian 1 - Definisi.
 
 a. __Adapted Material__ means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
+a. __Diadaptasi Bahan__ berarti materi yang tunduk pada Hak Cipta dan Hak-hak Sejenis yang berasal dari atau berdasarkan Bahan Berlisensi dan di mana Bahan Berizin diterjemahkan, diubah, diatur, dimodifikasi atau dimodifikasi dengan cara yang memerlukan izin berdasarkan Hak Cipta dan Hak-hak serupa yang dimiliki oleh Perizinan Untuk tujuan dari Lisensi Publik ini, di mana Material Berlisensi adalah pertunjukan musik, pertunjukan, atau rekaman suara, Materi Adaptasi selalu diproduksi dimana Materi Izin disinkronkan dalam hubungan berjangka waktu dengan gambar bergerak.
 
 b. __Copyright and Similar Rights__ means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
+b. __Hak cipta dan Hak Serupa__ berarti hak cipta dan / atau hak serupa lainnya yang terkait erat dengan hak cipta termasuk, namun tidak terbatas pada, kinerja, penyiaran, rekaman suara dan Hak Basis Data Sui Generis, terlepas dari bagaimana hak diberi label atau dikategorikan. Untuk keperluan Izin Publik ini, hak yang ditentukan dalam Bagian 2(b)(1)-(2) bukan Hak Cipta dan Hak-hak yang serupa.
 
 e. __Effective Technological Measures__ means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+e. __Efektif Langkah-Langkah Teknologi__ berarti tindakan yang, jika tidak ada wewenang yang sesuai, mungkin tidak dapat dihindari berdasarkan undang-undang yang memenuhi kewajiban berdasarkan Pasal 11 dari Perjanjian Hak Cipta WIPO yang diadopsi pada tanggal 20 Desember 1996, dan/atau perjanjian internasional serupa.
 
 f. __Exceptions and Limitations__ means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
+f. __Pengecualian dan Keterbatasan__ berarti penggunaan wajar, transaksi wajar, dan/atau pengecualian atau batasan lain atas Hak Cipta dan hak serupa yang berlaku untuk penggunaan Bahan Berlisensi Anda.
 
 h. __Licensed Material__ means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+h. __Materi Berlisensi__ berarti karya seni atau sastra, database, atau materi lain yang digunakan oleh Pemberi Lisensi untuk Lisensi Publik ini.
 
 i. __Licensed Rights__ means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
+i. __Hak Lisensi__ berarti hak yang diberikan kepada Anda tunduk pada syarat dan ketentuan dari Lisensi Publik ini, yang dibatasi untuk semua Hak Cipta dan Hak serupa yang berlaku untuk penggunaan Anda dari Bahan Berlisensi dan Pemberi Lisensi memiliki wewenang untuk melisensikannya.
+
 
 h. __Licensor__ means the individual(s) or entity(ies) granting rights under this Public License.
+h. __Perizinan__ berarti hak pemberian individu atau entitas berdasarkan Lisensi Publik ini.
 
 i. __NonCommercial__ means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+i. __NonKomersial__ berarti tidak terutama ditujukan untuk atau diarahkan pada keuntungan komersial atau kompensasi moneter. Untuk keperluan Lisensi Publik ini, pertukaran Bahan Berlisensi untuk materi lain yang tunduk pada Hak Cipta dan Hak-hak sejenis untuk berbagi file digital atau cara yang serupa adalah NonCommercial asalkan tidak ada pembayaran kompensasi uang sehubungan dengan pertukaran tersebut.
 
 j. __Share__ means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
+j. __Berbagi__ berarti memberikan materi kepada publik dengan cara atau proses yang memerlukan izin berdasarkan Lisensi, seperti reproduksi, display publik, kinerja publik, distribusi, diseminasi, komunikasi atau impor dan untuk menyediakan materi bagi masyarakat termasuk dengan cara yang dapat diakses oleh anggota masyarakat. bahan dari suatu tempat dan pada saat yang mereka pilih sendiri.
 
 k. __Sui Generis Database Rights__ means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
+k. __Basis Data Sui Generis__ berarti hak selain hak cipta yang dihasilkan dari Petunjuk 96/9/EC Parlemen Eropa dan Dewan 11 Maret 1996 tentang perlindungan hukum terhadap database, sebagaimana telah diubah dan / atau berhasil, dan hak setara setara di manapun di dunia. .
 
 l. __You__ means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+l. __Kamu__ berarti seseorang atau badan yang menjalankan Izin Hak berdasarkan Lisensi Publik ini. Anda memiliki makna yang tepat.
 
 ### Section 2 – Scope.
+### Bagian 2 - Ruang Lingkup.
 
 a. ___License grant.___
+a. ___Pemberian lisensi.___
 
    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+   1. Dengan tunduk pada syarat dan ketentuan dari Lisensi Publik ini, maka Pemberi Lisensi dengan ini memberi Anda lisensi di seluruh dunia, bebas royalti, tidak diizinkan, tidak eksklusif, tidak dapat dibatalkan, untuk menerapkan Lisensi dalam Izin ke:
+
 
         A. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
 
